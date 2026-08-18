@@ -22,4 +22,4 @@ A simple Python web crawler that searches selected websites for news articles ba
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/MohammadZakir939/python-web-news-crawler
